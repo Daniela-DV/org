@@ -3,7 +3,7 @@ import {AiOutlineCopyrightCircle , SiGithub } from  "react-icons/ai"
 
 const Footer = ()=>{
 
-    return <footer className="footer">
+    return <footer className="footer"  style={{backgroundImage:"url(/img/Footer.png)"}}>
 
         <div className="redes">
         <a href='https://www.linkedin.com/in/daniela-del-valle01/'> 
